@@ -6,8 +6,10 @@
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="quickstar" />
+          <element id="module-output" name="request" />
         </element>
       </element>
+      <element id="javaee-facet-resources" facet="request/web/Web" />
     </root>
   </artifact>
 </component>
